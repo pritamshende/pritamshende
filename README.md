@@ -84,4 +84,3 @@ I'm interested in discussing **DevOps, cloud infrastructure, Kubernetes, automat
 **Build • Automate • Deploy • Monitor • Improve** 🚀
 
 </div>
-

@@ -1,0 +1,5 @@
+1. Create a PUBLIC GitHub repository named pritamshende under the pritamshende account.
+2. Upload README.md to the repository root.
+3. Upload github-banner.png into an assets/ directory.
+4. Visit https://github.com/pritamshende to see the profile.
+5. For changes, edit the README in the special profile repository, not the separate portfolio- repository.
