@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# Hi, I'm Pritam Shende 👋
+# Hi, I'm Pritam Shende 
 
 ### DevOps Engineer | Multi-Cloud | Kubernetes | Platform Engineering
 
