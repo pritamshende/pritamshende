@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔧 DevOps Engineer with **4.5+ years of experience** in cloud infrastructure, CI/CD, Kubernetes, and DevSecOps.
+- 🔧 DevOps Engineer with **4.6+ years of experience** in cloud infrastructure, CI/CD, Kubernetes, and DevSecOps.
 - ☁️ Working across **AWS, Microsoft Azure, and Google Cloud**.
 - 🚀 Building delivery pipelines with **GitHub Actions, GitLab CI/CD, Jenkins, and Azure DevOps**.
 - 🏗️ Automating infrastructure using **Terraform, CloudFormation, ARM templates, and Ansible**.
